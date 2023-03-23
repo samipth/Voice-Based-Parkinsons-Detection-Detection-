@@ -1,2 +1,2 @@
-# Voice-Based-Parkinsons-Detection-Detection-
+# Voice-Based-Parkinsons-Disease-Detection-
 Major Project
